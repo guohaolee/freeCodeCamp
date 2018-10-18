@@ -33,6 +33,8 @@ $ python manage.py runserver
 ```
 Go to `http://localhost:8000`! :rocket:
 
+![django frontpage](https://wsvincent.com/assets/images/django-user-authentication-tutorial/welcome.png)
+
 We have successfully installed the web-framework of our need. However, it's not yet complete. Most web applications are content and data driven - so we need a data storage. Or, a Database, if you will.
 
 In next article, we would be discussing how to install PostgreSQL and use it with our Python web application.
